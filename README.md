@@ -9,6 +9,9 @@
     ├─Tools/ 软件工具使用
     └─USDA_Reports 美国农业部报告
 
+## 完结的Issue，全部放入Wiki留存
+点击[https://github.com/JianyiFutures/intern/wiki](https://github.com/JianyiFutures/intern/wiki)进入查看。
+
 ## 实习计划
 
 - 0wd2~0wd5 期货初接触，了解期货
